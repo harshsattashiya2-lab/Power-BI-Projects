@@ -1,7 +1,7 @@
 # 📊 Power BI Data Analysis Dashboard
 
 <p align="center">
-  <img src="Screenshots/dashboard.png" alt="Power BI Dashboard" width="900">
+  <img src="Screenshots/Dashboard.png" alt="Power BI Dashboard" width="900">
 </p>
 
 ## 🔗 Project Links
